@@ -63,6 +63,7 @@ const config = {
         },
       },
     },
+    esnextModules: ["taro-react-table"],
   },
   rn: {
     appName: "taroDemo",
