@@ -54,7 +54,8 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "taro-react-echarts": "^1.2.1",
-    "taro-react-table": "^1.7.3"
+    "taro-react-table": "^1.7.3",
+    "zustand": "^4.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.8.0",
